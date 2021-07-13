@@ -40,4 +40,8 @@ const members_V2 = [
     }
 ];
 
-module.exports = members;
+module.exports = {
+    members,
+    members_V2
+};
+
